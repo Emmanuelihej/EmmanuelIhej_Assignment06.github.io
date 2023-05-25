@@ -1,0 +1,6 @@
+clean,low
+dust,high
+shower,e
+clean,low
+shower,high
+dust,high
